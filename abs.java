@@ -3,6 +3,7 @@ public class abs {
     {
         int num = 100;
         int absvalue;
+        //or u could do this
 
         if (num < 0)
         {
