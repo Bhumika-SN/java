@@ -17,4 +17,8 @@ public class l2n {
             System.out.println( " both are equal");
           }
     }
+
+
+
+
 }
