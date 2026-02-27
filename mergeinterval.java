@@ -36,6 +36,8 @@ public class mergeinterval{
             }
         }
 
+        System.out.println("Merged intervals:");
+
         System.out.println("Merged Intervals:");
         for(int i = 0; i < result.size(); i++) {
             System.out.println(result.get(i)[0] + " " + result.get(i)[1]);
