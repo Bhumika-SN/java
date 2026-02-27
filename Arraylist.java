@@ -12,6 +12,9 @@ public class Arraylist {
         list.add(30);
         list.add(20);
         list.add(40);
+
+
+
         list.add(50);
         list.add(10);
 
