@@ -11,4 +11,4 @@ class MtoHS{
         System.out.println("or " + seconds + " seconds");
     }
 }
-
+//its easyy
