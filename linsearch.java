@@ -25,3 +25,5 @@ public class LinearSearch {
         }
     }
 }
+
+/adding the methods
