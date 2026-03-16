@@ -26,4 +26,4 @@ public class LinearSearch {
     }
 }
 
-/adding the methods
+/adding the methodsbolbof ifth 
