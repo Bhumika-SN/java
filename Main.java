@@ -20,7 +20,7 @@ class Coustomer {
 public class Main {
     public static void main(String[] args) {
 
-    
+    //updating i
         List<Coustomer> list = new ArrayList<>();
 
         list.add(new Coustomer(1, "Boomika"));
