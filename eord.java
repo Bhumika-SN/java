@@ -9,4 +9,6 @@ public class eord {
                 System.out.println( num + " is odd");
             }
         
+
+//nothing
         } }
