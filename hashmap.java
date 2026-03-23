@@ -26,3 +26,4 @@ public class TwoSum {
         System.out.println(result[0] + " " + result[1]);
     }
 }
+//Instead of checking every pair, we store numbers we have already seen in a HashMap.
