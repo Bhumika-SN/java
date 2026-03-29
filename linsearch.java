@@ -27,3 +27,5 @@ public class LinearSearch {
 }
 
 /adding the methodsbolbof ifth 
+    /adding
+    
