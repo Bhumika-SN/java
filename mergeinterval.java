@@ -13,6 +13,9 @@ public class mergeinterval{
         intervals.add(new int[]{8,10});
         intervals.add(new int[]{15,18});
 
+
+
+
         Collections.sort(intervals, new Comparator<int[]>() {
             public int compare(int[] a, int[] b) {
                 return a[0] - b[0];
